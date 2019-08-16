@@ -1,0 +1,79 @@
+body {
+    background-image: url("../images/mountain-trail.jpg");
+}
+
+h1 {
+    margin-left: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+    width: 100%;
+    text-align: center;
+    background-color:#efefef;
+    height: 45px;
+    }
+ 
+
+  .jumbotron {
+      border: 2px solid black;
+      width: 50%;
+      margin-top: 50px;
+      margin-left: auto;
+      margin-right: auto;
+      height: 500px;
+      background: rgba(228, 227, 227, 0.5); 
+  }
+
+  hr {
+      color: black;
+      border: 1px solid black;
+  }
+
+  .navbar {
+      box-shadow: 0 10px 15px #efefef;
+      background: #efefef;
+
+  }
+
+  .navbar-brand {
+      font-size: 20px;
+  }
+
+  .navbar-style {
+      text-transform: uppercase;
+
+  }
+
+  .container-footer {
+    position: fixed;
+    bottom: 0%;
+  }
+
+  img {
+      width:100px;
+      height: auto;
+      float: left;
+      margin-right: 20px;
+
+  }
+
+  .md-col-2 {
+    margin-left: 20px;
+    border: 2px solid gray;
+    
+  }
+
+  .md-col-4 {
+  }
+
+  p {
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 15px;
+      text-align: left;
+      margin-left: 10px;
+      line-height: 22px;
+      
