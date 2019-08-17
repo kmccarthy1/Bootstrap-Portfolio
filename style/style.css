@@ -28,6 +28,11 @@ footer {
       background: rgba(228, 227, 227, 0.5); 
   }
 
+  .jumbotron-contact {
+
+    height: 600px;
+  }
+
   hr {
       color: black;
       border: 1px solid black;
@@ -53,6 +58,16 @@ footer {
     bottom: 0%;
   }
 
+  #container-contact {
+
+    height: 600px;
+  }
+
+  .container-contact {
+
+    height: 600px;
+  }
+
   img {
       width:100px;
       height: auto;
@@ -75,5 +90,19 @@ footer {
       font-size: 15px;
       text-align: left;
       margin-left: 10px;
-      line-height: 22px;
+      line-height: 20px;
+  }
+
+  form {
+      margin-left: 20px;
+  }
+
+  .row .three {
+
+    height: 2000px;
+
+
+  }
+
+
       
