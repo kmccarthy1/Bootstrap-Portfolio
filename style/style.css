@@ -33,6 +33,11 @@ footer {
     height: 600px;
   }
 
+  .jumbotron-portfolio {
+
+    height: 600px;
+  }
+
   hr {
       color: black;
       border: 1px solid black;
@@ -78,11 +83,8 @@ footer {
 
   .md-col-2 {
     margin-left: 20px;
-    border: 2px solid gray;
+  
     
-  }
-
-  .md-col-4 {
   }
 
   p {
@@ -96,13 +98,43 @@ footer {
   form {
       margin-left: 20px;
   }
+  
+  .RPG {
 
-  .row .three {
+    height: 125px;
+    width: 125px;
+  }
 
-    height: 2000px;
+  .Hangman {
+
+    height: 125px;
+    width: 125px;
+  }
+
+  .Backgammon {
+     
+    margin-top: 30px;
+    height: 125px;
+    width: 125px;
 
 
   }
 
+  .chess {
+    margin-top: 30px;
+    height: 125px;
+    width: 125px;
+    margin-left: 30px; 
 
-      
+  }
+
+  .row-three {
+
+    height: 300px;
+  }
+
+  button {
+    margin-top: 30px;
+    margin-left: 5px;
+  }
+
